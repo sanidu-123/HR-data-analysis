@@ -37,3 +37,12 @@ Used 5 number of charts to create the dashboard
 1. Clone the repository to your local machine.
 2. Open the Tableau workbook (.twb file) using Tableau Desktop.
 3. Interact with the various visualizations to explore the insights derived from the HR dataset.
+
+## Snapshot of the dashboard
+![Screenshot 2024-06-28 233851](https://github.com/sanidu-123/HR-data-analysis/assets/172403569/017fe181-4774-40ae-9821-068a984ed78f)
+
+
+
+
+
+
